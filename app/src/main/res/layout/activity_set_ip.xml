@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/loginForm"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".SetIP">
+
+    <TableRow android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:id="@+id/tableRow">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IP:"
+            android:textSize="10pt" />
+        <!-- 输入用户名的文本框 -->
+        <EditText
+            android:id="@+id/ipedittext"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:hint="192.168.253.1"
+            android:digits="0123456789."
+            android:ems="10"
+            />
+    </TableRow>
+    <TableRow android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:id="@+id/tableRow2">
+
+        <!-- 输入用户名的文本框 -->
+    </TableRow>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Port:"
+        android:textSize="10pt"
+        android:id="@+id/textView"
+        android:layout_below="@+id/tableRow"
+        android:layout_alignLeft="@+id/tableRow"
+        android:layout_alignStart="@+id/tableRow"
+        android:layout_marginTop="27dp" />
+
+    <EditText
+        android:id="@+id/portedittext"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:hint="6000"
+        android:digits="0123456789"
+        android:ems="10"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_alignRight="@+id/tableRow"
+        android:layout_alignEnd="@+id/tableRow"
+        android:layout_toRightOf="@+id/textView"
+        android:layout_toEndOf="@+id/textView" />
+
+</RelativeLayout>

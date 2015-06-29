@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\PROJECTS\AndroidStudio\extras\android\m2repository\com\android\support\support-annotations\22.1.1\support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="D:\PROJECTS\AndroidStudioProjects\OSC_Android\app\build\intermediates\pre-dexed\debug\support-annotations-22.1.1-35547828481d55b097a4c9fbd160e9f4550eb3ec.jar" />
+    </item>
+    <item
+        jar="D:\PROJECTS\AndroidStudioProjects\OSC_Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="D:\PROJECTS\AndroidStudioProjects\OSC_Android\app\build\intermediates\pre-dexed\debug\classes-6cc83fb225e7eec7f9628f61e147a0ca4e4bd53a.jar" />
+    </item>
+    <item
+        jar="F:\Users\YL\.gradle\caches\modules-2\files-2.1\com.illposed.osc\javaosc-core\0.3\402113b186d24378e2362f9e5ff8dfe72a2195ee\javaosc-core-0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="402113b186d24378e2362f9e5ff8dfe72a2195ee">
+        <dex dex="D:\PROJECTS\AndroidStudioProjects\OSC_Android\app\build\intermediates\pre-dexed\debug\javaosc-core-0.3-ccc1bd816a72d3f6d8f647d3a1ace09006b35b19.jar" />
+    </item>
+    <item
+        jar="D:\PROJECTS\AndroidStudioProjects\OSC_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="D:\PROJECTS\AndroidStudioProjects\OSC_Android\app\build\intermediates\pre-dexed\debug\classes-450c0b967329d06bcc15ab50f3b08835f09cdaa4.jar" />
+    </item>
+    <item
+        jar="D:\PROJECTS\AndroidStudioProjects\OSC_Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\libs\internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="D:\PROJECTS\AndroidStudioProjects\OSC_Android\app\build\intermediates\pre-dexed\debug\internal_impl-22.1.1-6e57b6724641f59f5eb77e2b59cb2596c5f28744.jar" />
+    </item>
+
+</items>
